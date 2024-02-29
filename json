@@ -1,0 +1,2677 @@
+[
+    {
+        "Id": "854f98b576654953b6187e2c835be9d8",
+        "RecognitionStatus": 0,
+        "Offset": 2300000,
+        "Duration": 174800000,
+        "Channel": 0,
+        "DisplayText": "Pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros, somos forçados a agir, na maior parte das vezes por impulsos, em especial nos atos que tendem a determinar nosso futuro.",
+        "NBest": [
+            {
+                "Confidence": 0.90427864,
+                "Lexical": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "ITN": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "MaskedITN": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "Display": "Pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros, somos forçados a agir, na maior parte das vezes por impulsos, em especial nos atos que tendem a determinar nosso futuro.",
+                "Words": [
+                    {
+                        "Word": "pelo",
+                        "Offset": 2300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fato",
+                        "Offset": 4300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 8300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "vida",
+                        "Offset": 9100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 11900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "relativamente",
+                        "Offset": 19500000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "tão",
+                        "Offset": 31900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "curta",
+                        "Offset": 33500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 42300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 43900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "comportar",
+                        "Offset": 46700000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "reprises",
+                        "Offset": 54700000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 68300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "emendarmos",
+                        "Offset": 70700000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "nossos",
+                        "Offset": 77900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "erros",
+                        "Offset": 81500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "somos",
+                        "Offset": 91100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "forçados",
+                        "Offset": 94700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 101100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "agir",
+                        "Offset": 101500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 109900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "maior",
+                        "Offset": 111900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "parte",
+                        "Offset": 115100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "das",
+                        "Offset": 119100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vezes",
+                        "Offset": 121100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 129100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "impulsos",
+                        "Offset": 130700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 141500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "especial",
+                        "Offset": 143100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 149900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "atos",
+                        "Offset": 152700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 156300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tendem",
+                        "Offset": 157900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 161900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "determinar",
+                        "Offset": 162700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "nosso",
+                        "Offset": 169100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "futuro",
+                        "Offset": 171900000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.90427864,
+                "Lexical": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "ITN": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "MaskedITN": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "Display": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "Words": [
+                    {
+                        "Word": "pelo",
+                        "Offset": 2300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fato",
+                        "Offset": 4300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 8300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "vida",
+                        "Offset": 9100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 11900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "relativamente",
+                        "Offset": 19500000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "tão",
+                        "Offset": 31900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "curta",
+                        "Offset": 33500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 42300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 43900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "comportar",
+                        "Offset": 46700000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "reprises",
+                        "Offset": 54700000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 68300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "emendarmos",
+                        "Offset": 70700000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "nossos",
+                        "Offset": 77900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "erros",
+                        "Offset": 81500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "somos",
+                        "Offset": 91100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "forçados",
+                        "Offset": 94700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 101100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "agir",
+                        "Offset": 101500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 109900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "maior",
+                        "Offset": 111900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "parte",
+                        "Offset": 115100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "das",
+                        "Offset": 119100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vezes",
+                        "Offset": 121100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 129100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "impulsos",
+                        "Offset": 130700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 141500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "especial",
+                        "Offset": 143100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 149900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "atos",
+                        "Offset": 152700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 156300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tendem",
+                        "Offset": 157900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 161900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "determinar",
+                        "Offset": 162700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "nosso",
+                        "Offset": 169100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "futuro",
+                        "Offset": 171900000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.90427864,
+                "Lexical": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "ITN": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "MaskedITN": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "Display": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "Words": [
+                    {
+                        "Word": "pelo",
+                        "Offset": 2300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fato",
+                        "Offset": 4300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 8300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "vida",
+                        "Offset": 9100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 11900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "relativamente",
+                        "Offset": 19500000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "tão",
+                        "Offset": 31900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "curta",
+                        "Offset": 33500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 42300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 43900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "comportar",
+                        "Offset": 46700000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "reprises",
+                        "Offset": 54700000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 68300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "emendarmos",
+                        "Offset": 70700000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "nossos",
+                        "Offset": 77900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "erros",
+                        "Offset": 81500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "somos",
+                        "Offset": 91100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "forçados",
+                        "Offset": 94700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 101100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "agir",
+                        "Offset": 101500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 109900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "maior",
+                        "Offset": 111900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "parte",
+                        "Offset": 115100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "das",
+                        "Offset": 119100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vezes",
+                        "Offset": 121100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 129100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "impulsos",
+                        "Offset": 130700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 141500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "especial",
+                        "Offset": 143100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 149900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "atos",
+                        "Offset": 152700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 156300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tendem",
+                        "Offset": 157900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 161900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "determinar",
+                        "Offset": 162700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "nosso",
+                        "Offset": 169100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "futuro",
+                        "Offset": 171900000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.90427864,
+                "Lexical": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "ITN": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "MaskedITN": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "Display": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "Words": [
+                    {
+                        "Word": "pelo",
+                        "Offset": 2300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fato",
+                        "Offset": 4300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 8300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "vida",
+                        "Offset": 9100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 11900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "relativamente",
+                        "Offset": 19500000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "tão",
+                        "Offset": 31900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "curta",
+                        "Offset": 33500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 42300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 43900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "comportar",
+                        "Offset": 46700000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "reprises",
+                        "Offset": 54700000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 68300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "emendarmos",
+                        "Offset": 70700000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "nossos",
+                        "Offset": 77900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "erros",
+                        "Offset": 81500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "somos",
+                        "Offset": 91100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "forçados",
+                        "Offset": 94700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 101100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "agir",
+                        "Offset": 101500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 109900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "maior",
+                        "Offset": 111900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "parte",
+                        "Offset": 115100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "das",
+                        "Offset": 119100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vezes",
+                        "Offset": 121100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 129100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "impulsos",
+                        "Offset": 130700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 141500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "especial",
+                        "Offset": 143100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 149900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "atos",
+                        "Offset": 152700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 156300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tendem",
+                        "Offset": 157900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 161900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "determinar",
+                        "Offset": 162700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "nosso",
+                        "Offset": 169100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "futuro",
+                        "Offset": 171900000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.90427864,
+                "Lexical": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "ITN": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "MaskedITN": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "Display": "pelo fato da vida ser relativamente tão curta e não comportar reprises para emendarmos nossos erros somos forçados a agir na maior parte das vezes por impulsos em especial nos atos que tendem a determinar nosso futuro",
+                "Words": [
+                    {
+                        "Word": "pelo",
+                        "Offset": 2300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fato",
+                        "Offset": 4300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 8300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "vida",
+                        "Offset": 9100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 11900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "relativamente",
+                        "Offset": 19500000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "tão",
+                        "Offset": 31900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "curta",
+                        "Offset": 33500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 42300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 43900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "comportar",
+                        "Offset": 46700000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "reprises",
+                        "Offset": 54700000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 68300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "emendarmos",
+                        "Offset": 70700000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "nossos",
+                        "Offset": 77900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "erros",
+                        "Offset": 81500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "somos",
+                        "Offset": 91100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "forçados",
+                        "Offset": 94700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 101100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "agir",
+                        "Offset": 101500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 109900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "maior",
+                        "Offset": 111900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "parte",
+                        "Offset": 115100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "das",
+                        "Offset": 119100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vezes",
+                        "Offset": 121100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 129100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "impulsos",
+                        "Offset": 130700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 141500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "especial",
+                        "Offset": 143100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 149900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "atos",
+                        "Offset": 152700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 156300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tendem",
+                        "Offset": 157900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 161900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "determinar",
+                        "Offset": 162700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "nosso",
+                        "Offset": 169100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "futuro",
+                        "Offset": 171900000,
+                        "Duration": 5200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "c6b98b1423a4423a8298c7492bba7b14",
+        "RecognitionStatus": 0,
+        "Offset": 188300000,
+        "Duration": 118000000,
+        "Channel": 0,
+        "DisplayText": "Somos como atores convocados a representar uma tragédia ou comédia, sem ter feito um único ensaio, apenas com uma ligeira e apressada leitura do script.",
+        "NBest": [
+            {
+                "Confidence": 0.9322387,
+                "Lexical": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "ITN": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "MaskedITN": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "Display": "Somos como atores convocados a representar uma tragédia ou comédia, sem ter feito um único ensaio, apenas com uma ligeira e apressada leitura do script.",
+                "Words": [
+                    {
+                        "Word": "somos",
+                        "Offset": 188300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 192700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "atores",
+                        "Offset": 195900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "convocados",
+                        "Offset": 201900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 209100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "representar",
+                        "Offset": 209900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 216700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tragédia",
+                        "Offset": 218300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "ou",
+                        "Offset": 227900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "comédia",
+                        "Offset": 229500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "sem",
+                        "Offset": 242300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ter",
+                        "Offset": 245100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "feito",
+                        "Offset": 247100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 253100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "único",
+                        "Offset": 255100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ensaio",
+                        "Offset": 258300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "apenas",
+                        "Offset": 270300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 276700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 278700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ligeira",
+                        "Offset": 279900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 287100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "apressada",
+                        "Offset": 288300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "leitura",
+                        "Offset": 294700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 299100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "script",
+                        "Offset": 300300000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9322387,
+                "Lexical": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "ITN": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "MaskedITN": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "Display": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "Words": [
+                    {
+                        "Word": "somos",
+                        "Offset": 188300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 192700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "atores",
+                        "Offset": 195900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "convocados",
+                        "Offset": 201900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 209100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "representar",
+                        "Offset": 209900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 216700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tragédia",
+                        "Offset": 218300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "ou",
+                        "Offset": 227900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "comédia",
+                        "Offset": 229500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "sem",
+                        "Offset": 242300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ter",
+                        "Offset": 245100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "feito",
+                        "Offset": 247100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 253100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "único",
+                        "Offset": 255100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ensaio",
+                        "Offset": 258300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "apenas",
+                        "Offset": 270300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 276700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 278700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ligeira",
+                        "Offset": 279900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 287100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "apressada",
+                        "Offset": 288300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "leitura",
+                        "Offset": 294700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 299100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "script",
+                        "Offset": 300300000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9322387,
+                "Lexical": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "ITN": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "MaskedITN": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "Display": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "Words": [
+                    {
+                        "Word": "somos",
+                        "Offset": 188300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 192700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "atores",
+                        "Offset": 195900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "convocados",
+                        "Offset": 201900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 209100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "representar",
+                        "Offset": 209900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 216700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tragédia",
+                        "Offset": 218300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "ou",
+                        "Offset": 227900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "comédia",
+                        "Offset": 229500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "sem",
+                        "Offset": 242300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ter",
+                        "Offset": 245100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "feito",
+                        "Offset": 247100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 253100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "único",
+                        "Offset": 255100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ensaio",
+                        "Offset": 258300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "apenas",
+                        "Offset": 270300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 276700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 278700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ligeira",
+                        "Offset": 279900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 287100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "apressada",
+                        "Offset": 288300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "leitura",
+                        "Offset": 294700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 299100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "script",
+                        "Offset": 300300000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9322387,
+                "Lexical": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "ITN": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "MaskedITN": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "Display": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "Words": [
+                    {
+                        "Word": "somos",
+                        "Offset": 188300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 192700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "atores",
+                        "Offset": 195900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "convocados",
+                        "Offset": 201900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 209100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "representar",
+                        "Offset": 209900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 216700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tragédia",
+                        "Offset": 218300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "ou",
+                        "Offset": 227900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "comédia",
+                        "Offset": 229500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "sem",
+                        "Offset": 242300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ter",
+                        "Offset": 245100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "feito",
+                        "Offset": 247100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 253100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "único",
+                        "Offset": 255100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ensaio",
+                        "Offset": 258300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "apenas",
+                        "Offset": 270300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 276700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 278700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ligeira",
+                        "Offset": 279900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 287100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "apressada",
+                        "Offset": 288300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "leitura",
+                        "Offset": 294700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 299100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "script",
+                        "Offset": 300300000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9322387,
+                "Lexical": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "ITN": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "MaskedITN": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "Display": "somos como atores convocados a representar uma tragédia ou comédia sem ter feito um único ensaio apenas com uma ligeira e apressada leitura do script",
+                "Words": [
+                    {
+                        "Word": "somos",
+                        "Offset": 188300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 192700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "atores",
+                        "Offset": 195900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "convocados",
+                        "Offset": 201900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 209100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "representar",
+                        "Offset": 209900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 216700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tragédia",
+                        "Offset": 218300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "ou",
+                        "Offset": 227900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "comédia",
+                        "Offset": 229500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "sem",
+                        "Offset": 242300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ter",
+                        "Offset": 245100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "feito",
+                        "Offset": 247100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 253100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "único",
+                        "Offset": 255100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ensaio",
+                        "Offset": 258300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "apenas",
+                        "Offset": 270300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 276700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 278700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ligeira",
+                        "Offset": 279900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 287100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "apressada",
+                        "Offset": 288300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "leitura",
+                        "Offset": 294700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 299100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "script",
+                        "Offset": 300300000,
+                        "Duration": 6000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "15c8e503354f48a090d1764672778357",
+        "RecognitionStatus": 0,
+        "Offset": 315100000,
+        "Duration": 73600000,
+        "Channel": 0,
+        "DisplayText": "Nunca saberemos, de fato, se a intuição que nos determinou seguir certo sentimento foi correta ou não.",
+        "NBest": [
+            {
+                "Confidence": 0.8802268,
+                "Lexical": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "ITN": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "MaskedITN": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "Display": "Nunca saberemos, de fato, se a intuição que nos determinou seguir certo sentimento foi correta ou não.",
+                "Words": [
+                    {
+                        "Word": "nunca",
+                        "Offset": 315100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "saberemos",
+                        "Offset": 319100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 326300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "fato",
+                        "Offset": 327900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 336300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 338300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "intuição",
+                        "Offset": 338700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 345100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 347100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "determinou",
+                        "Offset": 348700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "seguir",
+                        "Offset": 354700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "certo",
+                        "Offset": 358700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "sentimento",
+                        "Offset": 363100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "foi",
+                        "Offset": 373500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "correta",
+                        "Offset": 375500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "ou",
+                        "Offset": 383900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 385900000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8802268,
+                "Lexical": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "ITN": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "MaskedITN": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "Display": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "Words": [
+                    {
+                        "Word": "nunca",
+                        "Offset": 315100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "saberemos",
+                        "Offset": 319100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 326300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "fato",
+                        "Offset": 327900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 336300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 338300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "intuição",
+                        "Offset": 338700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 345100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 347100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "determinou",
+                        "Offset": 348700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "seguir",
+                        "Offset": 354700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "certo",
+                        "Offset": 358700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "sentimento",
+                        "Offset": 363100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "foi",
+                        "Offset": 373500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "correta",
+                        "Offset": 375500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "ou",
+                        "Offset": 383900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 385900000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8802267,
+                "Lexical": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "ITN": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "MaskedITN": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "Display": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "Words": [
+                    {
+                        "Word": "nunca",
+                        "Offset": 315100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "saberemos",
+                        "Offset": 319100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 326300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "fato",
+                        "Offset": 327900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 336300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 338300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "intuição",
+                        "Offset": 338700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 345100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 347100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "determinou",
+                        "Offset": 348700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "seguir",
+                        "Offset": 354700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "certo",
+                        "Offset": 358700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "sentimento",
+                        "Offset": 363100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "foi",
+                        "Offset": 373500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "correta",
+                        "Offset": 375500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "ou",
+                        "Offset": 383900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 385900000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8802267,
+                "Lexical": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "ITN": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "MaskedITN": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "Display": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "Words": [
+                    {
+                        "Word": "nunca",
+                        "Offset": 315100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "saberemos",
+                        "Offset": 319100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 326300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "fato",
+                        "Offset": 327900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 336300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 338300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "intuição",
+                        "Offset": 338700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 345100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 347100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "determinou",
+                        "Offset": 348700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "seguir",
+                        "Offset": 354700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "certo",
+                        "Offset": 358700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "sentimento",
+                        "Offset": 363100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "foi",
+                        "Offset": 373500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "correta",
+                        "Offset": 375500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "ou",
+                        "Offset": 383900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 385900000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8802267,
+                "Lexical": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "ITN": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "MaskedITN": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "Display": "nunca saberemos de fato se a intuição que nos determinou seguir certo sentimento foi correta ou não",
+                "Words": [
+                    {
+                        "Word": "nunca",
+                        "Offset": 315100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "saberemos",
+                        "Offset": 319100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 326300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "fato",
+                        "Offset": 327900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 336300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 338300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "intuição",
+                        "Offset": 338700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 345100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 347100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "determinou",
+                        "Offset": 348700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "seguir",
+                        "Offset": 354700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "certo",
+                        "Offset": 358700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "sentimento",
+                        "Offset": 363100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "foi",
+                        "Offset": 373500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "correta",
+                        "Offset": 375500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "ou",
+                        "Offset": 383900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 385900000,
+                        "Duration": 2800000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "1a82e3bde60744bcbbdcd248b2142f0f",
+        "RecognitionStatus": 0,
+        "Offset": 397500000,
+        "Duration": 22000000,
+        "Channel": 0,
+        "DisplayText": "Não há tempo para essa verificação.",
+        "NBest": [
+            {
+                "Confidence": 0.9112258,
+                "Lexical": "não há tempo para essa verificação",
+                "ITN": "não há tempo para essa verificação",
+                "MaskedITN": "não há tempo para essa verificação",
+                "Display": "Não há tempo para essa verificação.",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 397500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "há",
+                        "Offset": 400300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 400700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 405500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 407900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "verificação",
+                        "Offset": 411100000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9112258,
+                "Lexical": "não há tempo para essa verificação",
+                "ITN": "não há tempo para essa verificação",
+                "MaskedITN": "não há tempo para essa verificação",
+                "Display": "não há tempo para essa verificação",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 397500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "há",
+                        "Offset": 400300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 400700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 405500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 407900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "verificação",
+                        "Offset": 411100000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9112258,
+                "Lexical": "não há tempo para essa verificação",
+                "ITN": "não há tempo para essa verificação",
+                "MaskedITN": "não há tempo para essa verificação",
+                "Display": "não há tempo para essa verificação",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 397500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "há",
+                        "Offset": 400300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 400700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 405500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 407900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "verificação",
+                        "Offset": 411100000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9112258,
+                "Lexical": "não há tempo para essa verificação",
+                "ITN": "não há tempo para essa verificação",
+                "MaskedITN": "não há tempo para essa verificação",
+                "Display": "não há tempo para essa verificação",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 397500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "há",
+                        "Offset": 400300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 400700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 405500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 407900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "verificação",
+                        "Offset": 411100000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9112258,
+                "Lexical": "não há tempo para essa verificação",
+                "ITN": "não há tempo para essa verificação",
+                "MaskedITN": "não há tempo para essa verificação",
+                "Display": "não há tempo para essa verificação",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 397500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "há",
+                        "Offset": 400300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 400700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 405500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 407900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "verificação",
+                        "Offset": 411100000,
+                        "Duration": 8400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "5c2f12eb444b419abc660b993583c882",
+        "RecognitionStatus": 0,
+        "Offset": 428300000,
+        "Duration": 50000000,
+        "Channel": 0,
+        "DisplayText": "Por isso, precisamos cuidar das nossas emoções com carinho muito especial.",
+        "NBest": [
+            {
+                "Confidence": 0.94923913,
+                "Lexical": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "ITN": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "MaskedITN": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "Display": "Por isso, precisamos cuidar das nossas emoções com carinho muito especial.",
+                "Words": [
+                    {
+                        "Word": "por",
+                        "Offset": 428300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 429900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "precisamos",
+                        "Offset": 436300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "cuidar",
+                        "Offset": 443500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "das",
+                        "Offset": 449100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nossas",
+                        "Offset": 451100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "emoções",
+                        "Offset": 454700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 460300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "carinho",
+                        "Offset": 461900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "muito",
+                        "Offset": 466300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "especial",
+                        "Offset": 471100000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.94923913,
+                "Lexical": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "ITN": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "MaskedITN": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "Display": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "Words": [
+                    {
+                        "Word": "por",
+                        "Offset": 428300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 429900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "precisamos",
+                        "Offset": 436300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "cuidar",
+                        "Offset": 443500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "das",
+                        "Offset": 449100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nossas",
+                        "Offset": 451100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "emoções",
+                        "Offset": 454700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 460300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "carinho",
+                        "Offset": 461900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "muito",
+                        "Offset": 466300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "especial",
+                        "Offset": 471100000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.94923925,
+                "Lexical": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "ITN": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "MaskedITN": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "Display": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "Words": [
+                    {
+                        "Word": "por",
+                        "Offset": 428300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 429900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "precisamos",
+                        "Offset": 436300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "cuidar",
+                        "Offset": 443500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "das",
+                        "Offset": 449100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nossas",
+                        "Offset": 451100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "emoções",
+                        "Offset": 454700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 460300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "carinho",
+                        "Offset": 461900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "muito",
+                        "Offset": 466300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "especial",
+                        "Offset": 471100000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.94923925,
+                "Lexical": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "ITN": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "MaskedITN": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "Display": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "Words": [
+                    {
+                        "Word": "por",
+                        "Offset": 428300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 429900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "precisamos",
+                        "Offset": 436300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "cuidar",
+                        "Offset": 443500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "das",
+                        "Offset": 449100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nossas",
+                        "Offset": 451100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "emoções",
+                        "Offset": 454700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 460300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "carinho",
+                        "Offset": 461900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "muito",
+                        "Offset": 466300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "especial",
+                        "Offset": 471100000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.94923913,
+                "Lexical": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "ITN": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "MaskedITN": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "Display": "por isso precisamos cuidar das nossas emoções com carinho muito especial",
+                "Words": [
+                    {
+                        "Word": "por",
+                        "Offset": 428300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 429900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "precisamos",
+                        "Offset": 436300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "cuidar",
+                        "Offset": 443500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "das",
+                        "Offset": 449100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nossas",
+                        "Offset": 451100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "emoções",
+                        "Offset": 454700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 460300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "carinho",
+                        "Offset": 461900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "muito",
+                        "Offset": 466300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "especial",
+                        "Offset": 471100000,
+                        "Duration": 7200000
+                    }
+                ]
+            }
+        ]
+    }
+]
